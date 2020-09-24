@@ -67,6 +67,7 @@ output_root = ['ztrans_' Pt_root];
 save(fullfile(working_dir, [output_root '.mat']), 'zscores', '-mat');
 
 tanh_scores = tanh(zscores);
+output2_root = ['tanh_' output_root];
 save(fullfile(working_dir, [output2_root '.mat']), 'tanh_scores', '-mat');
 
 %% report speed
