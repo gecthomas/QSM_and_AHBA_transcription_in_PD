@@ -30,12 +30,12 @@ function ROI_Zscore_transform(Ctrl_root, Pt_root, working_dir)
 tic
 %% import data
 % add working dir to path
-working_dir = [pwd() working_dir];
+working_dir = [pwd working_dir];
 addpath(working_dir);
 
 disp('>>> Load data')
-Ctrl = struct2array(load([working_dir, Ctrl_root]));
-Pt = struct2array(load([working_dir, Pt_root]));
+Ctrl = importdata([Ctrl_root '.mat']);
+Pt = importdata([Pt_root '.mat']);
 
 %% transform data
 
