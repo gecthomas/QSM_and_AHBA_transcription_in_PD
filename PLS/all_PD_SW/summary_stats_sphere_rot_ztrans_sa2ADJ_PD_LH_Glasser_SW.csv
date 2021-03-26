@@ -1,0 +1,8 @@
+, C1, C2
+expl_var_X, 18.170545, 4.740007
+expl_var_Y, 13.502887, 19.679928
+corr_X_rho, 0.367463, 0.443621
+corr_X_p, 3.888330e-07, 4.457629e-10
+, , 
+significance, pvalue, permutations
+**, 0.001200, 10000.000000

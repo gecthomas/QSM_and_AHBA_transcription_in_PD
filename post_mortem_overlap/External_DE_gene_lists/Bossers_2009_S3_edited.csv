@@ -1,0 +1,288 @@
+SystematicName,GeneName,Description,FC,Pval
+NM_000158,GBE1,"Glucan (1,4-alpha-), branching enzyme 1 (glycogen branching enzyme, Andersen disease, glycogen storage disease type IV)",0.18,0.00002
+NM_033495,KLHL13,Kelch-like 13 (Drosophila),0.24,0.00003
+AL117636,AL117636,MRNA; cDNA DKFZp434H205 (from clone DKFZp434H205),0.34,0.00004
+NM_004411,DYNC1I1,"Dynein, cytoplasmic 1, intermediate chain 1",0.26,0.00005
+NM_002863,PYGL,"Phosphorylase, glycogen; liver (Hers disease, glycogen storage disease type VI)",0.26,0.00005
+AB002376,CAST1,CAZ-associated structural protein,0.28,0.00011
+NM_000345,SNCA,"Synuclein, alpha (non A4 component of amyloid precursor)",0.27,0.00016
+NM_002928,RGS16,Regulator of G-protein signalling 16,0.22,0.00017
+AB014731,DENR,Density-regulated protein,0.41,0.00025
+NM_018092,NETO2,Neuropilin (NRP) and tolloid (TLL)-like 2,0.46,0.00029
+NM_014332,SMPX,"Small muscle protein, X-linked",0.31,0.00031
+NM_006670,TPBG,Trophoblast glycoprotein,0.18,0.00035
+NM_017999,RNF31,Ring finger protein 31,0.32,0.00037
+NM_006350,FST,Follistatin,0.17,0.00037
+BF035258,AKAP12,A kinase (PRKA) anchor protein (gravin) 12,0.39,0.00043
+AW974789,TTMA,Two transmembrane domain family member A,0.47,0.00047
+AF428101,DACH2,Dachshund homolog 2 (Drosophila),0.35,0.00053
+NM_018700,TRIM36,Tripartite motif-containing 36,0.3,0.00054
+AK024251,SLITRK5,"SLIT and NTRK-like family, member 5",0.46,0.00056
+NM_005639,SYT1,Synaptotagmin I,0.23,0.00062
+AB020710,EHBP1,EH domain binding protein 1,0.49,0.00063
+H06068,H06068,"yl72g10.s1 Soares infant brain 1NIB Homo sapiens cDNA clone IMAGE:43489 3-, mRNA sequence",0.46,0.00064
+AF225987,SCN3A,"Sodium channel, voltage-gated, type III, alpha",0.47,0.00067
+AL390172,AL390172,Homo sapiens genomic DNA; cDNA DKFZp547I204 (from clone DKFZp547I204),0.35,0.00068
+AK055427,DGKH,"Diacylglycerol kinase, eta",0.31,0.00075
+NM_022726,ELOVL4,"Elongation of very long chain fatty acids (FEN1/Elo2, SUR4/Elo3, yeast)-like 4",0.46,0.00086
+NM_006186,NR4A2,"Nuclear receptor subfamily 4, group A, member 2",0.2,0.00089
+NM_031850,AGTR1,"Angiotensin II receptor, type 1",0.07,0.00095
+NM_014309,RPL41,Ribosomal protein L41,0.38,0.00101
+R42166,R42166,"yf99d08.s1 Soares infant brain 1NIB Homo sapiens cDNA clone IMAGE:30780 3-, mRNA sequence",0.25,0.00103
+NM_012189,CABYR,Calcium binding tyrosine-(Y)-phosphorylation regulated (fibrousheathin 2),0.49,0.00112
+NM_006113,VAV3,Vav 3 oncogene,0.34,0.00113
+NM_014905,GLS,Glutaminase,0.43,0.00141
+J04621,SDC2,"Syndecan 2 (heparan sulfate proteoglycan 1, cell surface-associated, fibroglycan)",0.37,0.00142
+AF070623,LOC138046,Hypothetical protein LOC138046,0.38,0.00144
+NM_004796,NRXN3,Neurexin 3,0.49,0.00148
+AK025615,BCAT1,"Branched chain aminotransferase 1, cytosolic",0.31,0.00153
+NM_003979,GPRC5A,"G protein-coupled receptor, family C, group 5, member A",0.3,0.0017
+AF339796,HS6ST3,Heparan sulfate 6-O-sulfotransferase 3,0.48,0.00172
+AL137498,SCN2A2,"Sodium channel, voltage-gated, type II, alpha 2",0.45,0.00174
+NM_000809,GABRA4,"Gamma-aminobutyric acid (GABA) A receptor, alpha 4",0.29,0.00182
+AW294729,AW294729,"Transcribed locus, moderately similar to NP_509344.1 HIStone family member (his-71) [Caenorhabditis elegans]",0.55,0.00185
+NM_003138,SRPK2,"Homo sapiens SFRS protein kinase 2 (SRPK2), transcript variant 2, mRNA",0.53,0.00186
+AF397397,OLFM3,Olfactomedin 3,0.31,0.00197
+NM_005100,AKAP12,A kinase (PRKA) anchor protein (gravin) 12,0.43,0.0022
+AB046788,ROBO2,"Roundabout, axon guidance receptor, homolog 2 (Drosophila)",0.32,0.00232
+AV707343,AV707343,"V707343 ADB Homo sapiens cDNA clone ADBBSH02 5-, mRNA sequence",0.25,0.00238
+BC004869,C6orf168,Chromosome 6 open reading frame 168,0.44,0.00243
+NM_021159,RAP1GDS1,"RAP1, GTP-GDP dissociation stimulator 1",0.47,0.00245
+AI208142,DKFZP434L187,DKFZP434L187 protein,0.28,0.00252
+NM_014841,SNAP91,"Synaptosomal-associated protein, 91kDa homolog (mouse)",0.45,0.0027
+AI363461,AI363461,"qy58d08.x1 NCI_CGAP_Brn23 Homo sapiens cDNA clone IMAGE:2016207 3- similar to gb:X15822 CYTOCHROME C OXIDASE POLYPEPTIDE VIIA-LIVER PRECURSOR (HUMAN);, mRNA sequence",0.51,0.00271
+AB011131,PCLO,Piccolo (presynaptic cytomatrix protein),0.4,0.00274
+NM_000689,ALDH1A1,"Aldehyde dehydrogenase 1 family, member A1",0.18,0.00279
+AB046854,MAGI3,"Membrane associated guanylate kinase, WW and PDZ domain containing 3",0.49,0.00303
+AB046807,MAGEE1,"Melanoma antigen family E, 1",0.4,0.00321
+AB020663,DMXL2,Dmx-like 2,0.47,0.00328
+AK054939,ST8SIA3,"ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 3",0.52,0.00338
+NM_016529,ATP8A2,"ATPase, aminophospholipid transporter-like, Class I, type 8A, member 2",0.34,0.0035
+AL041224,AP1GBP1,AP1 gamma subunit binding protein 1,0.48,0.00352
+NM_022497,MRPS25,Mitochondrial ribosomal protein S25,0.51,0.00397
+NM_052953,LRRC3B,Leucine rich repeat containing 3B,0.39,0.00418
+NM_014970,KIFAP3,Kinesin-associated protein 3,0.45,0.00419
+AK054981,UNC13C,Unc-13 homolog C (C. elegans),0.28,0.00433
+NM_003836,DLK1,Delta-like 1 homolog (Drosophila),0.22,0.00442
+NM_019035,PCDH18,Protocadherin 18,0.54,0.00462
+NM_014278,HSPA4L,Heat shock 70kDa protein 4-like,0.48,0.00476
+NM_002866,RAB3A,"RAB3A, member RAS oncogene family",0.46,0.00503
+NM_003385,VSNL1,Visinin-like 1,0.29,0.00504
+NM_018686,CMAS,Cytidine monophosphate N-acetylneuraminic acid synthetase,0.4,0.00506
+NM_016185,HN1,Hematological and neurological expressed 1,0.49,0.00509
+AI815915,AI815915,"au43d12.x1 Schneider fetal brain 00004 Homo sapiens cDNA clone IMAGE:2517527 3- similar to gb:X51956_rna1 GAMMA ENOLASE (HUMAN);, mRNA sequence",0.37,0.0051
+NM_001635,AMPH,Amphiphysin (Stiff-Man syndrome with breast cancer 128kDa autoantigen),0.33,0.00517
+NM_004085,TIMM8A,Translocase of inner mitochondrial membrane 8 homolog A (yeast),0.54,0.00524
+NM_031469,SH3BGRL2,SH3 domain binding glutamic acid-rich protein like 2,0.52,0.00528
+NM_018057,SLC6A15,"Solute carrier family 6, member 15",0.41,0.00531
+NM_022912,REEP1,Receptor accessory protein 1,0.32,0.00563
+NM_014176,UBE2T,Ubiquitin-conjugating enzyme E2T (putative),0.4,0.00586
+NM_000276,OCRL,Oculocerebrorenal syndrome of Lowe,0.52,0.00589
+AL512695,CD226,CD226 molecule,0.44,0.00591
+AI590401,AI590401,"ts10a11.x1 NCI_CGAP_Pan1 Homo sapiens cDNA clone IMAGE:2228156 3-, mRNA sequence",0.52,0.00613
+NM_000860,HPGD,Hydroxyprostaglandin dehydrogenase 15-(NAD),0.29,0.00615
+AK057795,DOK6,Docking protein 6,0.26,0.00624
+NM_032873,STS-1,Cbl-interacting protein Sts-1,0.38,0.00638
+NM_005917,MDH1,"Malate dehydrogenase 1, NAD (soluble)",0.4,0.00641
+BC010549,UBE2F,Ubiquitin-conjugating enzyme E2F (putative),0.48,0.00661
+AK056217,FLJ44635,TPT1-like protein,0.46,0.0069
+NM_002930,RIT2,Ras-like without CAAX 2,0.36,0.00698
+NM_015294,TRIM37,Tripartite motif-containing 37,0.55,0.00701
+NM_032320,BTBD10,BTB (POZ) domain containing 10,0.49,0.00718
+NM_006178,NSF,N-ethylmaleimide-sensitive factor,0.49,0.00724
+NM_000194,HPRT1,Hypoxanthine phosphoribosyltransferase 1 (Lesch-Nyhan syndrome),0.37,0.00741
+NM_002736,PRKAR2B,"Protein kinase, cAMP-dependent, regulatory, type II, beta",0.35,0.00746
+D31886,RAB3GAP1,RAB3 GTPase activating protein subunit 1 (catalytic),0.59,0.00757
+NM_021032,FGF12,Fibroblast growth factor 12,0.35,0.00775
+NM_016141,DYNC1LI1,"Dynein, cytoplasmic 1, light intermediate chain 1",0.5,0.00792
+NM_000317,PTS,6-pyruvoyltetrahydropterin synthase,0.56,0.00799
+AL109678,LOC390616,Similar to RIKEN cDNA B230218L05 gene,0.35,0.00825
+NM_014906,PPM1E,Protein phosphatase 1E (PP2C domain containing),0.36,0.00828
+AB020689,TBC1D9,"TBC1 domain family, member 9",0.4,0.00828
+NM_002252,KCNS3,"Potassium voltage-gated channel, delayed-rectifier, subfamily S, member 3",0.32,0.0083
+NM_016129,COPS4,COP9 constitutive photomorphogenic homolog subunit 4 (Arabidopsis),0.48,0.00844
+AB033049,ANKRD50,Ankyrin repeat domain 50,0.48,0.00884
+AK055362,KCNMA1,"Potassium large conductance calcium-activated channel, subfamily M, alpha member 1",0.53,0.00977
+AK057753,RGS8,Regulator of G-protein signalling 8,0.41,0.00988
+BI966682,PGM2L1,Phosphoglucomutase 2-like 1,0.29,0.01013
+AK054689,NAP1L5,Nucleosome assembly protein 1-like 5,0.36,0.01052
+NM_005713,COL4A3BP,"Collagen, type IV, alpha 3 (Goodpasture antigen) binding protein",0.59,0.01114
+NM_003020,SCG5,Secretogranin V (7B2 protein),0.48,0.01127
+BG704055,BG704055,"602687195F1 NIH_MGC_95 Homo sapiens cDNA clone IMAGE:4819775 5-, mRNA sequence",0.48,0.0114
+AK023042,LASS6,LAG1 longevity assurance homolog 6 (S. cerevisiae),0.34,0.01151
+AK055065,UNC13A,Unc-13 homolog A (C. elegans),0.44,0.01168
+NM_006159,NELL2,NEL-like 2 (chicken),0.3,0.01169
+NM_002623,PFDN4,Prefoldin subunit 4,0.53,0.01182
+NM_020180,BRUNOL4,"Bruno-like 4, RNA binding protein (Drosophila)",0.41,0.01193
+AK026786,PRMT8,Protein arginine methyltransferase 8,0.37,0.01222
+NM_003350,UBE2V2,Ubiquitin-conjugating enzyme E2 variant 2,0.5,0.01231
+NM_001445,FABP6,"Fatty acid binding protein 6, ileal (gastrotropin)",0.41,0.01237
+NM_006936,SUMO3,SMT3 suppressor of mif two 3 homolog 3 (S. cerevisiae),0.58,0.01253
+AL110139,LOC400451,Hypothetical gene supported by AK075564; BC060873,0.51,0.01259
+AK022817,NAPB,"N-ethylmaleimide-sensitive factor attachment protein, beta",0.38,0.01264
+NM_021963,NAP1L2,Nucleosome assembly protein 1-like 2,0.46,0.01283
+NM_021083,XK,X-linked Kx blood group (McLeod syndrome),0.48,0.01291
+NM_032594,INSM2,Insulinoma-associated 2,0.4,0.01295
+NM_014848,SV2B,Synaptic vesicle glycoprotein 2B,0.3,0.01301
+NM_002752,MAPK9,Mitogen-activated protein kinase 9,0.51,0.01309
+AB007877,HSPA12A,Heat shock 70kDa protein 12A,0.41,0.01353
+NM_017691,LRRC49,Leucine rich repeat containing 49,0.5,0.01368
+NM_000291,PGK1,Phosphoglycerate kinase 1,0.52,0.01421
+NM_020386,HRASLS,HRAS-like suppressor,0.51,0.01426
+NM_018159,NUDT11,Nudix (nucleoside diphosphate linked moiety X)-type motif 11,0.52,0.01432
+AB018345,KIAA0802,KIAA0802,0.39,0.01451
+NM_006803,AP3M2,"Adaptor-related protein complex 3, mu 2 subunit",0.54,0.01455
+NM_022131,CLSTN2,Calsyntenin 2,0.52,0.0148
+NM_018000,DSU,Dilute suppressor,0.62,0.01558
+NM_015509,NECAP1,NECAP endocytosis associated 1,0.41,0.01563
+AK057055,RPL41,Ribosomal protein L41,0.51,0.01568
+NM_003010,MAP2K4,Mitogen-activated protein kinase kinase 4,0.51,0.0167
+NM_001686,ATP5B,"ATP synthase, H+ transporting, mitochondrial F1 complex, beta polypeptide",0.6,0.01736
+AI200874,RIMS1,Regulating synaptic membrane exocytosis 1,0.31,0.01759
+NM_004280,EEF1E1,Eukaryotic translation elongation factor 1 epsilon 1,0.55,0.0176
+NM_020685,C3orf14,Chromosome 3 open reading frame 14,0.54,0.01794
+AK027572,KCTD6,Potassium channel tetramerisation domain containing 6,0.59,0.01803
+NM_001151,SLC25A4,"Solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4",0.52,0.01836
+BC010282,LRPPRC,Leucine-rich PPR-motif containing,0.58,0.01844
+NM_003812,ADAM23,ADAM metallopeptidase domain 23,0.41,0.01846
+NM_002830,PTPN4,"Protein tyrosine phosphatase, non-receptor type 4 (megakaryocyte)",0.53,0.01847
+NM_000259,MYO5A,"Myosin VA (heavy polypeptide 12, myoxin)",0.44,0.01888
+NM_032814,TMEM118,Transmembrane protein 118,0.53,0.0202
+NM_018640,LMO3,LIM domain only 3 (rhombotin-like 2),0.41,0.02022
+NM_018215,FLJ10781,Hypothetical protein FLJ10781,0.53,0.02028
+AL442092,LRRN3,Leucine rich repeat neuronal 3,0.55,0.02073
+NM_004993,ATXN3,Ataxin 3,0.56,0.02075
+NM_005822,DSCR1L1,Down syndrome critical region gene 1-like 1,0.37,0.0208
+AK025203,FAM102B,"Family with sequence similarity 102, member B",0.41,0.02104
+BF438028,BF438028,"7q66b07.x1 NCI_CGAP_Lu24 Homo sapiens cDNA clone IMAGE:3703237 3-, mRNA sequence",0.63,0.0211
+NM_003081,SNAP25,"Synaptosomal-associated protein, 25kDa",0.4,0.02121
+NM_005688,ABCC5,"ATP-binding cassette, sub-family C (CFTR/MRP), member 5",0.61,0.02137
+NM_002816,PSMD12,"Proteasome (prosome, macropain) 26S subunit, non-ATPase, 12",0.55,0.02137
+NM_003951,SLC25A14,"Solute carrier family 25 (mitochondrial carrier, brain), member 14",0.58,0.02142
+NM_017784,OSBPL10,Oxysterol binding protein-like 10,0.34,0.02181
+NM_004586,RPS6KA3,"Ribosomal protein S6 kinase, 90kDa, polypeptide 3",0.55,0.02198
+NM_004742,MAGI1,"Membrane associated guanylate kinase, WW and PDZ domain containing 1",0.45,0.022
+NM_005875,EIF1B,Eukaryotic translation initiation factor 1B,0.54,0.02233
+NM_005872,BCAS2,Breast carcinoma amplified sequence 2,0.55,0.02305
+NM_021637,TMEM35,Transmembrane protein 35,0.42,0.02319
+NM_033027,AXUD1,AXIN1 up-regulated 1,0.58,0.02319
+NM_021928,SPCS3,Signal peptidase complex subunit 3 homolog (S. cerevisiae),0.59,0.02391
+BG196607,BG196607,"RST15833 Athersys RAGE Library Homo sapiens cDNA, mRNA sequence",0.53,0.02398
+AL096752,RAB3GAP1,RAB3 GTPase activating protein subunit 1 (catalytic),0.62,0.02422
+AF400502,SNRPN,Small nuclear ribonucleoprotein polypeptide N,0.55,0.02451
+AK057555,PRKCB1,"Protein kinase C, beta 1",0.55,0.02515
+NM_021980,OPTN,Optineurin,0.51,0.02523
+NM_015941,ATP6V1H,"ATPase, H+ transporting, lysosomal 50/57kDa, V1 subunit H",0.56,0.02548
+NM_014961,RUFY3,RUN and FYVE domain containing 3,0.61,0.02598
+NM_003716,CADPS,Ca2+-dependent secretion activator,0.34,0.02634
+NM_003866,INPP4B,"Inositol polyphosphate-4-phosphatase, type II, 105kDa",0.3,0.02658
+NM_031940,TM2D2,TM2 domain containing 2,0.53,0.02683
+NM_005151,USP14,Ubiquitin specific peptidase 14 (tRNA-guanine transglycosylase),0.59,0.02684
+NM_023037,FRY,Furry homolog (Drosophila),0.63,0.02726
+NM_002222,ITPR1,"Inositol 1,4,5-triphosphate receptor, type 1",0.46,0.02799
+NM_017938,FAM70A,"Family with sequence similarity 70, member A",0.32,0.02857
+NM_007275,TUSC2,Tumor suppressor candidate 2,0.59,0.02865
+NM_004496,FOXA1,Forkhead box A1,0.18,0.029
+R45986,R45986,"yg48e01.s1 Soares infant brain 1NIB Homo sapiens cDNA clone IMAGE:35586 3- similar to contains TAR1 repetitive element ;, mRNA sequence",0.31,0.02919
+NM_001936,DPP6,Dipeptidyl-peptidase 6,0.62,0.0292
+AF217190,DHX36,DEAH (Asp-Glu-Ala-His) box polypeptide 36,0.58,0.02921
+NM_015946,PELO,Pelota homolog (Drosophila),0.62,0.03092
+NM_004046,ATP5A1,"ATP synthase, H+ transporting, mitochondrial F1 complex, alpha subunit 1, cardiac muscle",0.53,0.03107
+NM_014175,MRPL15,Mitochondrial ribosomal protein L15,0.57,0.03129
+NM_032798,NM_032798,"Homo sapiens hypothetical protein FLJ14503 (FLJ14503), mRNA.",0.3,0.03132
+NM_032804,C10orf22,Chromosome 10 open reading frame 22,0.61,0.03149
+AF056085,GABBR2,"Gamma-aminobutyric acid (GABA) B receptor, 2",0.52,0.03224
+NM_003054,SLC18A2,"Solute carrier family 18 (vesicular monoamine), member 2",0.16,0.03302
+NM_006561,CUGBP2,"CUG triplet repeat, RNA binding protein 2",0.62,0.03308
+NM_000169,GLA,"Galactosidase, alpha",0.47,0.03369
+AF090100,AAK1,AP2 associated kinase 1,0.43,0.03386
+AB058696,NAG6,Hypothetical protein DKFZp434G156,0.4,0.03408
+NM_022151,MOAP1,Modulator of apoptosis 1,0.38,0.03464
+BC013033,RAB3C,"RAB3C, member RAS oncogene family",0.31,0.03486
+AB007896,PREPL,Prolyl endopeptidase-like,0.59,0.03491
+NM_003165,STXBP1,Syntaxin binding protein 1,0.44,0.03515
+NM_016656,RRAGB,Ras-related GTP binding B,0.51,0.03574
+NM_032568,GABARAPL3,"Homo sapiens GABA(A) receptors associated protein like 3 (GABARAPL3), mRNA.",0.5,0.03613
+NM_002590,PCDH8,Protocadherin 8,0.19,0.0366
+NM_001313,CRMP1,Collapsin response mediator protein 1,0.6,0.03692
+AK056563,C1orf71,Chromosome 1 open reading frame 71,0.48,0.03695
+NM_031412,GABARAPL1,GABA(A) receptor-associated protein like 1,0.5,0.03712
+NM_025108,C16orf59,Chromosome 16 open reading frame 59,0.54,0.03713
+NM_004255,COX5A,Cytochrome c oxidase subunit Va,0.62,0.03766
+NM_012395,PFTK1,PFTAIRE protein kinase 1,0.36,0.03776
+AF288395,NMNAT2,Nicotinamide nucleotide adenylyltransferase 2,0.3,0.03801
+NM_014912,CPEB3,Cytoplasmic polyadenylation element binding protein 3,0.67,0.03847
+NM_014747,RIMS3,Regulating synaptic membrane exocytosis 3,0.57,0.03907
+NM_006918,SC5DL,"Sterol-C5-desaturase (ERG3 delta-5-desaturase homolog, fungal)-like",0.63,0.03964
+AI498582,AI498582,"tn02e02.x1 NCI_CGAP_Brn25 Homo sapiens cDNA clone IMAGE:2166458 3-, mRNA sequence",0.59,0.0406
+BC001867,BC001867,Homo sapiens cDNA clone IMAGE:3536204,0.55,0.04069
+AL136712,DNM3,Dynamin 3,0.55,0.04129
+NM_021800,DNAJC12,"DnaJ (Hsp40) homolog, subfamily C, member 12",0.55,0.04154
+BC013576,GPRASP2,G protein-coupled receptor associated sorting protein 2,0.52,0.04264
+NM_002079,GOT1,"Glutamic-oxaloacetic transaminase 1, soluble (aspartate aminotransferase 1)",0.48,0.0428
+NM_016183,C1orf33,Chromosome 1 open reading frame 33,0.59,0.04287
+NM_006839,IMMT,"Inner membrane protein, mitochondrial (mitofilin)",0.55,0.04299
+AJ010230,RFPL1S,Ret finger protein-like 1 antisense,0.55,0.04315
+NM_014677,RIMS2,Regulating synaptic membrane exocytosis 2,0.55,0.04317
+NM_018477,ACTR10,Actin-related protein 10 homolog (S. cerevisiae),0.46,0.04337
+NM_001863,COX6B1,Cytochrome c oxidase subunit Vib polypeptide 1 (ubiquitous),0.63,0.04404
+NM_031468,CALN1,Calneuron 1,0.33,0.0447
+NM_021074,NDUFV2,"NADH dehydrogenase (ubiquinone) flavoprotein 2, 24kDa",0.59,0.04496
+NM_006359,SLC9A6,"Solute carrier family 9 (sodium/hydrogen exchanger), member 6",0.6,0.04499
+NM_013322,SNX10,Sorting nexin 10,0.44,0.04549
+NM_002847,PTPRN2,"Protein tyrosine phosphatase, receptor type, N polypeptide 2",0.55,0.046
+AL355687,AL355687,"EST from clone 24355, full insert",0.25,0.04609
+NM_012347,FBXO9,F-box protein 9,0.54,0.04785
+AK054565,TCP11L1,T-complex 11 (mouse) like 1,0.66,0.04801
+NM_001172,ARG2,"Arginase, type II",0.47,0.04892
+NM_006818,MLLT11,"Myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 11",0.38,0.04903
+AK054998,PLEKHB2,"Pleckstrin homology domain containing, family B (evectins) member 2",0.54,0.04933
+AL133688,AL133688,"DKFZp761K1110_s1 761 (synonym: hamy2) Homo sapiens cDNA clone DKFZp761K1110 3-, mRNA sequence",0.52,0.0494
+NM_017933,FLJ20701,Hypothetical protein FLJ20701,0.46,0.04956
+BC013923,SOX2,SRY (sex determining region Y)-box 2,1.86,0.00117
+BI823317,BI823317,"603041226F1 NIH_MGC_115 Homo sapiens cDNA clone IMAGE:5182015 5-, mRNA sequence",2.18,0.00136
+NM_018276,SSH3,Slingshot homolog 3 (Drosophila),1.66,0.00222
+NM_002343,LTF,Lactotransferrin,4.56,0.00503
+NM_003380,VIM,Vimentin,2.22,0.00552
+AB011178,PHLPP,PH domain and leucine rich repeat protein phosphatase,1.9,0.00573
+NM_001401,EDG2,"Endothelial differentiation, lysophosphatidic acid G-protein-coupled receptor, 2",2.06,0.00687
+AK056822,LOC400960,Hypothetical gene supported by BC040598,1.71,0.00782
+NM_018494,LRDD,Leucine-rich repeats and death domain containing,2,0.00917
+NM_003244,TGIF,TGFB-induced factor (TALE family homeobox),1.96,0.01052
+NM_002823,PTMA,"Prothymosin, alpha (gene sequence 28)",1.8,0.01134
+AL136826,RGMA,"RGM domain family, member A",1.97,0.01153
+NM_032161,NM_032161,"Homo sapiens KIAA1870 protein (KIAA1870), mRNA.",1.89,0.01339
+NM_002053,GBP1,"Guanylate binding protein 1, interferon-inducible, 67kDa",2.62,0.01462
+NM_002609,PDGFRB,"Platelet-derived growth factor receptor, beta polypeptide",1.64,0.01503
+AB046774,C17orf27,Chromosome 17 open reading frame 27,1.96,0.01507
+AV723140,AV723140,"AV723140 HTB Homo sapiens cDNA clone HTBAAA04 5-, mRNA sequence",1.74,0.01508
+NM_000346,SOX9,"SRY (sex determining region Y)-box 9 (campomelic dysplasia, autosomal sex-reversal)",1.72,0.0152
+NM_001227,CASP7,"Caspase 7, apoptosis-related cysteine peptidase",1.91,0.01666
+AK025495,SASH1,SAM and SH3 domain containing 1,1.77,0.01988
+NM_004642,CDK2AP1,CDK2-associated protein 1,1.61,0.02016
+AB014555,HIP1R,Huntingtin interacting protein 1 related,1.66,0.02103
+NM_021200,PLEKHB1,"Pleckstrin homology domain containing, family B (evectins) member 1",1.8,0.0221
+NM_018181,ZNF532,Zinc finger protein 532,1.69,0.02312
+NM_002774,KLK6,"Kallikrein 6 (neurosin, zyme)",1.6,0.02654
+NM_012304,FBXL7,F-box and leucine-rich repeat protein 7,1.68,0.02692
+NM_002026,FN1,Fibronectin 1,1.86,0.03017
+NM_021198,CTDSP1,"CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase 1",1.77,0.03023
+AK056809,LRRC58,Leucine rich repeat containing 58,1.64,0.03051
+BC004287,BC004287,"Homo sapiens, clone IMAGE:3618365, mRNA",1.94,0.0319
+NM_024516,MVP,Major vault protein,1.67,0.03281
+NM_005938,MLLT7,"Myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 7",1.82,0.03305
+NM_000067,CA2,Carbonic anhydrase II,2.26,0.03325
+NM_021242,MID1IP1,MID1 interacting protein 1 (gastrulation specific G12-like (zebrafish)),1.86,0.03431
+NM_002562,P2RX7,"Purinergic receptor P2X, ligand-gated ion channel, 7",1.9,0.03447
+NM_005979,S100A13,S100 calcium binding protein A13,1.69,0.03505
+AK023424,FLJ27365,FLJ27365 protein,1.65,0.03668
+AB058716,AB058716,"Homo sapiens mRNA for KIAA1813 protein, partial cds",1.68,0.0393
+AB020676,WWC1,"WW, C2 and coiled-coil domain containing 1",1.69,0.04006
+NM_024513,FYCO1,FYVE and coiled-coil domain containing 1,1.56,0.04082
+NM_002070,GNAI2,"Guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 2",1.49,0.04204
+AK027091,AK027091,"CDNA: FLJ23438 fis, clone HRC13275",1.85,0.04235
+NM_004723,ARHGEF2,Rho/rac guanine nucleotide exchange factor (GEF) 2,1.77,0.04746
+NM_013974,DDAH2,Dimethylarginine dimethylaminohydrolase 2,1.69,0.04769
+NM_002859,PXN,Paxillin,1.72,0.04805
+BI754846,BI754846,"603026815F1 NIH_MGC_114 Homo sapiens cDNA clone IMAGE:5197250 5-, mRNA sequence",2.34,0.0481
+NM_017707,NM_017707,Development and differentiation enhancing factor-like 1,1.64,0.04825

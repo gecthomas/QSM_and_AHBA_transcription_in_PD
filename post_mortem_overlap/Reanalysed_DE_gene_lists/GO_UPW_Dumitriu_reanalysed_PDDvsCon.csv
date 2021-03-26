@@ -1,0 +1,3 @@
+"","source","term_name","term_id","p_value","significant","term_size","query_size","intersection_size","precision","recall","effective_domain_size"
+"1","GO:MF","hemoglobin binding","GO:0030492",0.0289930483978324,TRUE,9,21,2,0.0952380952380952,0.222222222222222,18602
+"2","KEGG","D-Arginine and D-ornithine metabolism","KEGG:00472",0.0125832476204322,TRUE,1,1,1,1,1,7963

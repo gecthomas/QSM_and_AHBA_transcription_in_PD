@@ -1,0 +1,7 @@
+"","source","term_name","term_id","p_value","significant","term_size","query_size","intersection_size","precision","recall","effective_domain_size"
+"2","GO:MF","outward rectifier potassium channel activity","GO:0015271",0.0344043566403686,TRUE,13,667,5,0.00749625187406297,0.384615384615385,18134
+"3","MIRNA","hsa-miR-192-5p","MIRNA:hsa-miR-192-5p",0.00146235100173929,TRUE,986,446,57,0.12780269058296,0.0578093306288032,14714
+"4","MIRNA","hsa-miR-215-5p","MIRNA:hsa-miR-215-5p",0.00160246566528684,TRUE,752,446,47,0.105381165919283,0.0625,14714
+"5","REAC","Toxicity of botulinum toxin type F (BoNT/F)","REAC:R-HSA-5250981",0.0418103148991933,TRUE,5,33,2,0.0606060606060606,0.4,10588
+"6","REAC","Toxicity of botulinum toxin type D (BoNT/D)","REAC:R-HSA-5250955",0.0418103148991933,TRUE,5,33,2,0.0606060606060606,0.4,10588
+"28","TF","Factor: ZF5; motif: NGAGCGCGC; match class: 1","TF:M10111_1",0.0138343613134941,TRUE,487,635,36,0.0566929133858268,0.0739219712525667,19940

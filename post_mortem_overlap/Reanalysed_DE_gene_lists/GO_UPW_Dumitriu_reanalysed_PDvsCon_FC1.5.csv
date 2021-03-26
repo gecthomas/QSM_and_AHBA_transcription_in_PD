@@ -1,0 +1,3 @@
+"","source","term_name","term_id","p_value","significant","term_size","query_size","intersection_size","precision","recall","effective_domain_size"
+"1","KEGG","D-Arginine and D-ornithine metabolism","KEGG:00472",0.0187714217117957,TRUE,1,2,1,0.5,1,7963
+"2","TF","Factor: ZNF667; motif: KGGGSCATTATC","TF:M05783",0.0246237677181398,TRUE,11,265,4,0.0150943396226415,0.363636363636364,19937
